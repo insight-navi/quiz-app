@@ -66,3 +66,7 @@ quiz-app/
 ## 動作確認
 
 - `index.html` をブラウザで開いて確認する
+
+## GitHubリポジトリ
+
+https://github.com/insight-navi/quiz-app
